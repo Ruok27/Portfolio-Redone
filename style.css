@@ -1,0 +1,36 @@
+
+.container{
+
+    background: darkgrey;
+    position: absolute;
+    margin:25%;
+
+    }
+    
+    
+    .col {
+        position: relative;
+        
+        padding: 10px;
+    
+      }
+
+      .project1{
+
+
+        font-size: 55%;
+
+      }
+      
+      .text-block {
+        height: auto;
+        width: 105px;
+        position: absolute;
+        background-color: black;
+        color: white;
+        bottom: 30%;
+        font-size: auto;
+        
+      }
+
+     
